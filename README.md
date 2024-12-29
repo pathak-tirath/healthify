@@ -1,4 +1,8 @@
 ## Healthify Project
 
-<!-- Upgrade this info  -->
-This project is regarding the lists of foods, showing the integrediants information and suggesting related foods as well
+# Objective
+To develop a web application that enables users to easily identify the nutritional information of their food, discover related food items, explore diverse recipes, and efficiently plan their meals for better health and convenience.
+
+
+# Contributors
+PATHAK TIRATH
